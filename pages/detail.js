@@ -165,7 +165,7 @@ const DetailPage = (() => {
     }
     return `
       <span class="detail-coupon-label">쿠폰</span>
-      <button class="detail-coupon-btn" id="btn-open-coupon">쿠폰 적용하기 <span>🔽</span></button>
+      <button class="detail-coupon-btn" id="btn-open-coupon"><span>✅</span> 쿠폰 적용하기 </button>
     `;
   };
 
